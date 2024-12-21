@@ -7,7 +7,7 @@
 #🌐 Fully responsive and lightweight web app.
 #💻 Built using HTML, CSS, and JavaScript.
 #Demo
-[Add a link to a live demo or a GIF of the project in action]
+[https://jiivas.github.io/DrumKit/]
 
 #How to Use
 #Clone this repository:
