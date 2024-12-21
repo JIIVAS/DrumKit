@@ -13,7 +13,7 @@
 #Clone this repository:
 #bash
 #Copy code
-#git clone https://github.com/jiivas.github.io/ 
+#git clone https://github.com/jiivas 
 #Navigate to the project directory:
 #bash
 #Copy code
