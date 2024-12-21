@@ -13,7 +13,7 @@
 #Clone this repository:
 #bash
 #Copy code
-#git clone https://github.com/your-username/drum-kit.git  
+#git clone https://github.com/jiivas.github.io/drum-kit.git  
 #Navigate to the project directory:
 #bash
 #Copy code
